@@ -1,0 +1,986 @@
+[
+    {
+        "l_orderkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_linenumber": [
+            -Infinity,
+            Infinity
+        ],
+        "l_quantity": [
+            -Infinity,
+            Infinity
+        ],
+        "l_extendedprice": [
+            -Infinity,
+            Infinity
+        ],
+        "l_discount": [
+            -Infinity,
+            Infinity
+        ],
+        "l_tax": [
+            -Infinity,
+            Infinity
+        ],
+        "l_returnflag": [
+            -Infinity,
+            Infinity
+        ],
+        "l_linestatus": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipdate": [
+            786265200,
+            Infinity
+        ],
+        "l_commitdate": [
+            -Infinity,
+            Infinity
+        ],
+        "l_receiptdate": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipinstruct": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipmode": [
+            -Infinity,
+            Infinity
+        ],
+        "l_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderkey": [
+            -Infinity,
+            Infinity
+        ],
+        "o_custkey": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderstatus": [
+            -Infinity,
+            Infinity
+        ],
+        "o_totalprice": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderdate": [
+            823158000,
+            Infinity
+        ],
+        "o_orderpriority": [
+            -Infinity,
+            Infinity
+        ],
+        "o_clerk": [
+            -Infinity,
+            Infinity
+        ],
+        "o_shippriority": [
+            -Infinity,
+            Infinity
+        ],
+        "o_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "c_custkey": [
+            -Infinity,
+            Infinity
+        ],
+        "c_name": [
+            -Infinity,
+            Infinity
+        ],
+        "c_address": [
+            -Infinity,
+            Infinity
+        ],
+        "c_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "c_phone": [
+            -Infinity,
+            Infinity
+        ],
+        "c_acctbal": [
+            -Infinity,
+            Infinity
+        ],
+        "c_mktsegment": [
+            -Infinity,
+            Infinity
+        ],
+        "c_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "n_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "n_name": [
+            -Infinity,
+            Infinity
+        ],
+        "n_regionkey": [
+            -Infinity,
+            Infinity
+        ],
+        "n_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "r_regionkey": [
+            -Infinity,
+            Infinity
+        ],
+        "r_name": [
+            -Infinity,
+            Infinity
+        ],
+        "r_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_availqty": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_supplycost": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "p_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "p_name": [
+            -Infinity,
+            Infinity
+        ],
+        "p_mfgr": [
+            -Infinity,
+            Infinity
+        ],
+        "p_brand": [
+            -Infinity,
+            Infinity
+        ],
+        "p_type": [
+            -Infinity,
+            Infinity
+        ],
+        "p_size": [
+            -Infinity,
+            Infinity
+        ],
+        "p_container": [
+            -Infinity,
+            Infinity
+        ],
+        "p_retailprice": [
+            -Infinity,
+            Infinity
+        ],
+        "p_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "s_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "s_name": [
+            -Infinity,
+            Infinity
+        ],
+        "s_address": [
+            -Infinity,
+            Infinity
+        ],
+        "s_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "s_phone": [
+            -Infinity,
+            Infinity
+        ],
+        "s_acctbal": [
+            -Infinity,
+            Infinity
+        ],
+        "s_comment": [
+            -Infinity,
+            Infinity
+        ]
+    },
+    {
+        "l_orderkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_linenumber": [
+            -Infinity,
+            Infinity
+        ],
+        "l_quantity": [
+            -Infinity,
+            Infinity
+        ],
+        "l_extendedprice": [
+            -Infinity,
+            Infinity
+        ],
+        "l_discount": [
+            -Infinity,
+            Infinity
+        ],
+        "l_tax": [
+            -Infinity,
+            Infinity
+        ],
+        "l_returnflag": [
+            -Infinity,
+            Infinity
+        ],
+        "l_linestatus": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipdate": [
+            -Infinity,
+            786265200
+        ],
+        "l_commitdate": [
+            -Infinity,
+            Infinity
+        ],
+        "l_receiptdate": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipinstruct": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipmode": [
+            -Infinity,
+            Infinity
+        ],
+        "l_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderkey": [
+            -Infinity,
+            Infinity
+        ],
+        "o_custkey": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderstatus": [
+            -Infinity,
+            Infinity
+        ],
+        "o_totalprice": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderdate": [
+            725871600,
+            Infinity
+        ],
+        "o_orderpriority": [
+            -Infinity,
+            Infinity
+        ],
+        "o_clerk": [
+            -Infinity,
+            Infinity
+        ],
+        "o_shippriority": [
+            -Infinity,
+            Infinity
+        ],
+        "o_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "c_custkey": [
+            -Infinity,
+            Infinity
+        ],
+        "c_name": [
+            -Infinity,
+            Infinity
+        ],
+        "c_address": [
+            -Infinity,
+            Infinity
+        ],
+        "c_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "c_phone": [
+            -Infinity,
+            Infinity
+        ],
+        "c_acctbal": [
+            -Infinity,
+            Infinity
+        ],
+        "c_mktsegment": [
+            -Infinity,
+            Infinity
+        ],
+        "c_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "n_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "n_name": [
+            -Infinity,
+            Infinity
+        ],
+        "n_regionkey": [
+            -Infinity,
+            Infinity
+        ],
+        "n_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "r_regionkey": [
+            -Infinity,
+            Infinity
+        ],
+        "r_name": [
+            -Infinity,
+            Infinity
+        ],
+        "r_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_availqty": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_supplycost": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "p_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "p_name": [
+            -Infinity,
+            Infinity
+        ],
+        "p_mfgr": [
+            -Infinity,
+            Infinity
+        ],
+        "p_brand": [
+            -Infinity,
+            Infinity
+        ],
+        "p_type": [
+            -Infinity,
+            Infinity
+        ],
+        "p_size": [
+            -Infinity,
+            Infinity
+        ],
+        "p_container": [
+            -Infinity,
+            Infinity
+        ],
+        "p_retailprice": [
+            -Infinity,
+            Infinity
+        ],
+        "p_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "s_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "s_name": [
+            -Infinity,
+            Infinity
+        ],
+        "s_address": [
+            -Infinity,
+            Infinity
+        ],
+        "s_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "s_phone": [
+            -Infinity,
+            Infinity
+        ],
+        "s_acctbal": [
+            -Infinity,
+            Infinity
+        ],
+        "s_comment": [
+            -Infinity,
+            Infinity
+        ]
+    },
+    {
+        "l_orderkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_linenumber": [
+            -Infinity,
+            Infinity
+        ],
+        "l_quantity": [
+            -Infinity,
+            Infinity
+        ],
+        "l_extendedprice": [
+            -Infinity,
+            Infinity
+        ],
+        "l_discount": [
+            -Infinity,
+            Infinity
+        ],
+        "l_tax": [
+            -Infinity,
+            Infinity
+        ],
+        "l_returnflag": [
+            -Infinity,
+            Infinity
+        ],
+        "l_linestatus": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipdate": [
+            786265200,
+            Infinity
+        ],
+        "l_commitdate": [
+            -Infinity,
+            Infinity
+        ],
+        "l_receiptdate": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipinstruct": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipmode": [
+            -Infinity,
+            Infinity
+        ],
+        "l_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderkey": [
+            -Infinity,
+            Infinity
+        ],
+        "o_custkey": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderstatus": [
+            -Infinity,
+            Infinity
+        ],
+        "o_totalprice": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderdate": [
+            -Infinity,
+            823158000
+        ],
+        "o_orderpriority": [
+            -Infinity,
+            Infinity
+        ],
+        "o_clerk": [
+            -Infinity,
+            Infinity
+        ],
+        "o_shippriority": [
+            -Infinity,
+            Infinity
+        ],
+        "o_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "c_custkey": [
+            -Infinity,
+            Infinity
+        ],
+        "c_name": [
+            -Infinity,
+            Infinity
+        ],
+        "c_address": [
+            -Infinity,
+            Infinity
+        ],
+        "c_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "c_phone": [
+            -Infinity,
+            Infinity
+        ],
+        "c_acctbal": [
+            -Infinity,
+            Infinity
+        ],
+        "c_mktsegment": [
+            -Infinity,
+            Infinity
+        ],
+        "c_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "n_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "n_name": [
+            -Infinity,
+            Infinity
+        ],
+        "n_regionkey": [
+            -Infinity,
+            Infinity
+        ],
+        "n_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "r_regionkey": [
+            -Infinity,
+            Infinity
+        ],
+        "r_name": [
+            -Infinity,
+            Infinity
+        ],
+        "r_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_availqty": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_supplycost": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "p_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "p_name": [
+            -Infinity,
+            Infinity
+        ],
+        "p_mfgr": [
+            -Infinity,
+            Infinity
+        ],
+        "p_brand": [
+            -Infinity,
+            Infinity
+        ],
+        "p_type": [
+            -Infinity,
+            Infinity
+        ],
+        "p_size": [
+            -Infinity,
+            Infinity
+        ],
+        "p_container": [
+            -Infinity,
+            Infinity
+        ],
+        "p_retailprice": [
+            -Infinity,
+            Infinity
+        ],
+        "p_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "s_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "s_name": [
+            -Infinity,
+            Infinity
+        ],
+        "s_address": [
+            -Infinity,
+            Infinity
+        ],
+        "s_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "s_phone": [
+            -Infinity,
+            Infinity
+        ],
+        "s_acctbal": [
+            -Infinity,
+            Infinity
+        ],
+        "s_comment": [
+            -Infinity,
+            Infinity
+        ]
+    },
+    {
+        "l_orderkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "l_linenumber": [
+            -Infinity,
+            Infinity
+        ],
+        "l_quantity": [
+            -Infinity,
+            Infinity
+        ],
+        "l_extendedprice": [
+            -Infinity,
+            Infinity
+        ],
+        "l_discount": [
+            -Infinity,
+            Infinity
+        ],
+        "l_tax": [
+            -Infinity,
+            Infinity
+        ],
+        "l_returnflag": [
+            -Infinity,
+            Infinity
+        ],
+        "l_linestatus": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipdate": [
+            -Infinity,
+            786265200
+        ],
+        "l_commitdate": [
+            -Infinity,
+            Infinity
+        ],
+        "l_receiptdate": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipinstruct": [
+            -Infinity,
+            Infinity
+        ],
+        "l_shipmode": [
+            -Infinity,
+            Infinity
+        ],
+        "l_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderkey": [
+            -Infinity,
+            Infinity
+        ],
+        "o_custkey": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderstatus": [
+            -Infinity,
+            Infinity
+        ],
+        "o_totalprice": [
+            -Infinity,
+            Infinity
+        ],
+        "o_orderdate": [
+            -Infinity,
+            725871600
+        ],
+        "o_orderpriority": [
+            -Infinity,
+            Infinity
+        ],
+        "o_clerk": [
+            -Infinity,
+            Infinity
+        ],
+        "o_shippriority": [
+            -Infinity,
+            Infinity
+        ],
+        "o_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "c_custkey": [
+            -Infinity,
+            Infinity
+        ],
+        "c_name": [
+            -Infinity,
+            Infinity
+        ],
+        "c_address": [
+            -Infinity,
+            Infinity
+        ],
+        "c_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "c_phone": [
+            -Infinity,
+            Infinity
+        ],
+        "c_acctbal": [
+            -Infinity,
+            Infinity
+        ],
+        "c_mktsegment": [
+            -Infinity,
+            Infinity
+        ],
+        "c_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "n_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "n_name": [
+            -Infinity,
+            Infinity
+        ],
+        "n_regionkey": [
+            -Infinity,
+            Infinity
+        ],
+        "n_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "r_regionkey": [
+            -Infinity,
+            Infinity
+        ],
+        "r_name": [
+            -Infinity,
+            Infinity
+        ],
+        "r_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_availqty": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_supplycost": [
+            -Infinity,
+            Infinity
+        ],
+        "ps_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "p_partkey": [
+            -Infinity,
+            Infinity
+        ],
+        "p_name": [
+            -Infinity,
+            Infinity
+        ],
+        "p_mfgr": [
+            -Infinity,
+            Infinity
+        ],
+        "p_brand": [
+            -Infinity,
+            Infinity
+        ],
+        "p_type": [
+            -Infinity,
+            Infinity
+        ],
+        "p_size": [
+            -Infinity,
+            Infinity
+        ],
+        "p_container": [
+            -Infinity,
+            Infinity
+        ],
+        "p_retailprice": [
+            -Infinity,
+            Infinity
+        ],
+        "p_comment": [
+            -Infinity,
+            Infinity
+        ],
+        "s_suppkey": [
+            -Infinity,
+            Infinity
+        ],
+        "s_name": [
+            -Infinity,
+            Infinity
+        ],
+        "s_address": [
+            -Infinity,
+            Infinity
+        ],
+        "s_nationkey": [
+            -Infinity,
+            Infinity
+        ],
+        "s_phone": [
+            -Infinity,
+            Infinity
+        ],
+        "s_acctbal": [
+            -Infinity,
+            Infinity
+        ],
+        "s_comment": [
+            -Infinity,
+            Infinity
+        ]
+    }
+]
